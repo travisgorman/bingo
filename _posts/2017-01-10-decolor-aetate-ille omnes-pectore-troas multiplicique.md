@@ -1,12 +1,14 @@
 ---
 layout: post
 title: "Anhelitus unumque corpora ore"
-date: 2017-01-11
+date: YYYY-MM-DD HH:MM:SS +/-TTTT
 category: jekyll update
 ---
 # Profundum vicem finem utraque tremoribus delabere crederet
 
 ## Per qui ducit alimenta fluctus spatium
+
+![the skoog takes a sip](http://imgur.com/a/gMZk5.png)
 
 Lorem markdownum cum Smilace, ait templi adpareat etiam, est *sonum non
 sociorum*. Saepe **infelix**, illo tibi mento oraque ecce omnia aristas et:

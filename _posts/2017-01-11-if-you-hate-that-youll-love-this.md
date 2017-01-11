@@ -7,6 +7,7 @@ category: jekyll update
 #This is an H1
 ## This is an H2
 
+![the skoog takes a sip](http://imgur.com/a/gMZk5.png)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio dolore debitis nam ullam, doloribus dicta repellat deserunt fugit aut aspernatur delectus? Reprehenderit minus, dicta ea dolor incidunt voluptatibus reiciendis fugiat.
 

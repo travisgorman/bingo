@@ -5,8 +5,9 @@ date: 2017-01-14
 category: jekyll update
 ---
 # Duri coniunx harenas superest tanta
-
 ## Dedi Perseus ad torpetis tanta caesariem pater
+
+![the skoog takes a sip](http://imgur.com/a/gMZk5.png)
 
 Lorem markdownum, **recusem omnes sidera** est postquam Aurora. Fui quas, loco
 potuit, pars et! Pallorem ut illi quaeque credidit undis, in Phoebe dimissis,

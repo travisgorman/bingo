@@ -5,8 +5,9 @@ date: 2017-01-16
 category: jekyll update
 ---
 # Tibi veneris quoque docto ipse sine comparat
-
 ## Facite frondibus
+
+![the skoog takes a sip](http://imgur.com/a/gMZk5.png)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio dolore debitis nam ullam, doloribus dicta repellat deserunt fugit aut aspernatur delectus? Reprehenderit minus, dicta ea dolor incidunt voluptatibus reiciendis fugiat.
 
