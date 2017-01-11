@@ -37,4 +37,14 @@
         font-size: 0.875em;
         float: right;
     }
+    h3 {
+        text-align: left;
+    }
+    .footer-social {
+        float: right;
+        li {
+            display: inline-block;
+            margin: 0;
+        }
+    }
 }
