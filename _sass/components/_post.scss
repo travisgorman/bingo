@@ -1,11 +1,15 @@
 .post-list {
 	@extend %clearfix;
 	list-style:none;
+	margin-top:$h1-font-size;
 }
 .post {
 	float:left;
 	width:50%;
 	padding:0 3em 1em; 
+	&:nth-child(odd) {
+		clear:both;
+	}
 }
 .post-tags {
 	min-height:50px;

@@ -31,10 +31,10 @@ layout: default
     <div class="wrapper">
       <h1 class="page-heading">latest articles</h1>
       <ul class="post-list">
-        {% for post in site.posts %}
+        {% for post in site.posts reversed | limit:4 %}
           <li class="post">
             <h2>{{ post.title }}</h2>
-            <p>{{ post.content | strip_html | strip_newlines | truncate: 200 }}</p>
+            <p>{{ post.content | strip_html | strip_newlines | truncate: 140 }}</p>
             <p class="post-read-more-link">
               <a href="#">read more&hellip;</a>
             </p>
@@ -45,54 +45,3 @@ layout: default
   </section>
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-<!-- 
-<div class="home">
-
-  <section class="site-section">
-    <div class="wrapper">
-    <h1 class="page-heading">featured article</h1>
-      {% assign count = 0 %}
-      {% for post in site.posts %}
-        {% if post.featured == true and count < 1 %}
-          <div class="post post-featured">
-            {% include post.html %}
-          </div>
-          {% assign count = count | plus: 1 %}
-        {% endif %}
-      {% endfor %}
-    </div>
-  </section>
-
-  <section class="site-section">
-    <h1>featured projects</h1>
-    <ul class="project-list">
-      {% for project in site.projects %}
-        {% include project.html %}
-      {% endfor %}
-    </ul>
-  </section>
-
-  <section class="site-section site-section-last">
-    <div class="wrapper">
-      <h1 class="page-heading">latest articles</h1>
-      <ul class="post-list">
-        {% for post in site.posts %}
-          <li class="post">{% include post.html %}</li>
-        {% endfor %}
-      </ul>
-    <div>
-  </section>
-
-</div>
- -->
