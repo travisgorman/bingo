@@ -2,7 +2,7 @@
 layout: post
 title: "Anhelitus unumque corpora ore"
 date: 2017-01-10 
-category: blog
+category: project
 tags: design
 ---
 # Profundum vicem finem utraque tremoribus delabere crederet

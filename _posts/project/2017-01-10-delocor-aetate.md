@@ -2,7 +2,7 @@
 layout: post
 title: "Facta Cerberus satelles colligit vitta"
 date: 2017-01-14
-category: blog
+category: project
 tags: code
 ---
 # Duri coniunx harenas superest tanta
