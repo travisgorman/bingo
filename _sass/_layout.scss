@@ -1,65 +1,67 @@
+/**
+ * header / nav
+ */
+.site-header {
+    padding:2rem 0 0;
+    border-bottom:1px solid #ccc;
+    background:url('/images/header-bg2.png');
+    background-size:400px 400px;
+    text-align:center;
+}
 .site-nav {
     text-align: center;
-    ul {
-        margin: 1em 0;
-        list-style:none;
-    }
+    ul { list-style:none; }
     li {
-        display: inline-block;
-        margin: 0 0.5em;
-        font-size: 1.5em;
+        display:inline-block;
+        margin:0 0.5em;
+        font-size:1.875em;
     }
 }
-.site-title {
-    color: #000;
-    text-decoration: none;
-}
-.site-header {
-    padding: 2rem 0 0;
-    border-bottom: 1px solid #ccc;
-    background: url('/images/header-bg2.png');
-    background-size: 400px 400px;
+.site-title a {
+    color:$text-color;
+    text-decoration:none;
 }
 
+/**
+ * section content
+    - featured article
+    - featured projects
+    - latest articles
+ */
+.site-section {
+    @extend %clearfix;
+    padding-top:$h1-font-size;
+}
+.site-section-last {
+    padding-bottom:$h1-font-size;
+}
+
+
+/**
+ * footer
+ */
 .site-footer {
-    width: 100%;
-    position: absolute;
-
-    background: #262426;
-    color: #eee;
-
+    // width:100%;
+    padding:2em 0;
+    color:#fff;
+    background:$grey-color-dark;
 
     .footer-content {
-        position: relative;
-        padding: 1.5rem;
-        display: inline-block;
-        width: 40%;
-        font-size: 0.875em;
-        float: right;
+        float:left;
+        width:40%;
+        font-size:0.875em;
+
     }
-    h3 {
-        text-align: left;
-    }
+    h3 { text-align:left; }
+
     .footer-social {
-        float: right;
+        float:right;
         li {
-            display: inline-block;
-            margin: 0;
+            display:inline-block;
+            margin:0 0.5em;
         }
     }
 }
-
-//sections
-.site-section {
-    @extend %clearfix
-    padding-top: $h1-font-size;
-}
-.site-section-last {
-    padding-bottom: $h1-font-size;
-}
-
-
-
 
 
 

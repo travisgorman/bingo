@@ -1,33 +1,7 @@
-$base-font-family: 'Avenir Next', Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$mega-font-size: 100px;
-$h1-font-size: 70px;
-$h2-font-size: 40px;
-$h3-font-size: 30px;
-$h4-font-size: 24px;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+* {
+    box-sizing: border-box;
+}
 
-$spacing-unit:     30px;
-
-$text-color:       #333;
-$background-color: #fefef3;
-$brand-color:      #fe5f55;
-
-$blue-color: #92b5bd;
-$yellow-color: #ede24e;
-$red-color: #df6d59;
-$purple-color: #6b2339;
-
-$grey-color:       #333;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  $text-color;
-
-// Width of the content area
-$content-width:    1200px;
-
-$on-palm:          600px;
-$on-laptop:        800px;
 /**
  * Reset some basic elements
  */
@@ -37,7 +11,6 @@ dl, dd, ol, ul, figure {
     margin: 0;
     padding: 0;
 }
-
 
 
 /**

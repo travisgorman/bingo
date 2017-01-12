@@ -2,7 +2,7 @@
 layout: post
 title: "Facta Cerberus satelles colligit vitta"
 date: 2017-01-14
-category: jekyll update
+category: blog
 ---
 # Duri coniunx harenas superest tanta
 ## Dedi Perseus ad torpetis tanta caesariem pater

@@ -2,7 +2,7 @@
 layout: post
 title: "Qui memor illis principio negant at simili"
 date: 2017-01-15
-category: jekyll update
+category: project
 ---
 # Iram quod artus scalas saxo
 ## Sui est memoranda ferus Alcithoe in illa

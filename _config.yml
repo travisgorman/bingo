@@ -6,17 +6,17 @@ baseurl: ""
 url: "http://yourdomain.com" 
 twitter_username: thefarbetween
 github_username:  travisgorman
-
 permalink: /:categories/:title
 links:
-    - title: about
-      url: /about
-    - title: work
-      url: /work
-    - title: articles
-      url: /articles
-    - title: hire me
-      url: /hire-me
+  - title: about
+    url: /about
+  - title: work
+    url: /work
+  - title: articles
+    url: /articles
+  - title: hire me
+    url: /hire-me
 
 # Build settings
 markdown: kramdown
+future: true

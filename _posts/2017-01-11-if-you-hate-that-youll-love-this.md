@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "this is the title"
+title: "Lorem ipsum dolor sit"
 date: 2017-01-11
-category: jekyll update
+category: blog
 ---
 #This is an H1
 ## This is an H2

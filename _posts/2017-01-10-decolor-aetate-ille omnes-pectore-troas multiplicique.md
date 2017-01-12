@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Anhelitus unumque corpora ore"
-date: YYYY-MM-DD HH:MM:SS +/-TTTT
-category: jekyll update
+date: 2017-01-10 
+category: blog
 ---
 # Profundum vicem finem utraque tremoribus delabere crederet
 
