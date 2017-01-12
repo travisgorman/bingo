@@ -6,7 +6,11 @@
 .post {
 	float:left;
 	width:50%;
-	padding:0 3em 1em; 
+	padding:0 3em 1em;
+	h2 {
+		font-size:$h2-font-size;
+		font-weight:400;
+	}
 	&:nth-child(odd) {
 		clear:both;
 	}

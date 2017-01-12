@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Anhelitus unumque corpora ore"
+title: "Project Number One"
 date: 2017-01-10 
 category: project
 tags: design
+featured_image: 'images/project.png'
 ---
 # Profundum vicem finem utraque tremoribus delabere crederet
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mansit frondibus bello roganti erat sed fama"
+title: "Mansit frondibus bello roganti erat sed"
 date: 2017-01-16
 category: blog
 tags: code

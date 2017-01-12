@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Facta Cerberus satelles colligit vitta"
+title: "Project Number Two"
 date: 2017-01-14
 category: project
 tags: code
+featured_image: 'images/project.png'
 ---
 # Duri coniunx harenas superest tanta
 ## Dedi Perseus ad torpetis tanta caesariem pater

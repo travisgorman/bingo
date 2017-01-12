@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qui memor illis principio negant at simili"
+title: "Qui memor illis principio negant"
 date: 2017-01-15
 category: blog
 tags: code inspiration

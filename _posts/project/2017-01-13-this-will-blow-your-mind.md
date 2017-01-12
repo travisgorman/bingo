@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Qui memor illis principio negant at simili"
+title: "Project Number Three"
 date: 2017-01-15
 category: project
 tags: code inspiration
+featured_image: 'images/project.png'
 ---
 # Iram quod artus scalas saxo
 ## Sui est memoranda ferus Alcithoe in illa
