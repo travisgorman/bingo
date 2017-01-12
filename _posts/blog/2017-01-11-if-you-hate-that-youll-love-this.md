@@ -4,12 +4,8 @@ title: "Lorem ipsum dolor sit"
 date: 2017-01-11
 category: blog
 tags: code inspiration
+#featured_image: 'images/project.png'
 ---
-#This is an H1
-## This is an H2
-
-![the skoog takes a sip](http://imgur.com/a/gMZk5.png)
-
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio dolore debitis nam ullam, doloribus dicta repellat deserunt fugit aut aspernatur delectus? Reprehenderit minus, dicta ea dolor incidunt voluptatibus reiciendis fugiat.
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus temporibus repellendus facere tempore alias rem qui, animi repellat, odit totam, voluptatibus aut ipsam distinctio nemo itaque id fuga nulla optio.

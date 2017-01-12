@@ -4,12 +4,8 @@ title: "Qui memor illis principio negant"
 date: 2017-01-15
 category: blog
 tags: code inspiration
+#featured_image: 'images/project.png'
 ---
-# Iram quod artus scalas saxo
-## Sui est memoranda ferus Alcithoe in illa
-
-![the skoog takes a sip](http://imgur.com/a/gMZk5.png)
-
 Lorem markdownum membra virilem, [his flumina enim](http://data-ictus.org/haec),
 orbe cur umeros litusque profusis Anaxareten esse, ira citi. Dilexit hoc iam
 altera urget remulus!

@@ -4,12 +4,8 @@ title: "Facta Cerberus satelles colligit vitta"
 date: 2017-01-14
 category: blog
 tags: code
+#featured_image: 'images/project.png'
 ---
-# Duri coniunx harenas superest tanta
-## Dedi Perseus ad torpetis tanta caesariem pater
-
-![the skoog takes a sip](http://imgur.com/a/gMZk5.png)
-
 Lorem markdownum, **recusem omnes sidera** est postquam Aurora. Fui quas, loco
 potuit, pars et! Pallorem ut illi quaeque credidit undis, in Phoebe dimissis,
 sibi parato pati sequerere quondam unde.

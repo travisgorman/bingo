@@ -5,12 +5,8 @@ date: 2017-01-12
 category: blog
 featured: true
 tags: code snippet
+#featured_image: 'images/project.png'
 ---
-# Oresitrophos Procne Othrys morte plus
-## Omnes docuisse vestros validoque corpus intresque Semina
-
-![the skoog takes a sip](http://imgur.com/a/gMZk5.png)
-
 Lorem markdownum communes comites amores Veneris arcana, lumen lato femina, omni
 facit. Populum nunc tulisti caelo contendere in istis squamea discussa: exercet
 fuge contigit, Procris. Quae fieri ensis rastrorumque arcus Achaica quot mortis

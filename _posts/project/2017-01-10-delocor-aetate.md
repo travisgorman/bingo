@@ -4,13 +4,8 @@ title: "Project Number Two"
 date: 2017-01-14
 category: project
 tags: code
-featured_image: 'images/project.png'
+featured_image: '/images/project.png'
 ---
-# Duri coniunx harenas superest tanta
-## Dedi Perseus ad torpetis tanta caesariem pater
-
-![the skoog takes a sip](http://imgur.com/a/gMZk5.png)
-
 Lorem markdownum, **recusem omnes sidera** est postquam Aurora. Fui quas, loco
 potuit, pars et! Pallorem ut illi quaeque credidit undis, in Phoebe dimissis,
 sibi parato pati sequerere quondam unde.
@@ -96,7 +91,7 @@ mensae.
                 maximizeRpmFirmware + circuitSession);
     }
 
-## Videbit alma perpetuos longi potuit
+### Videbit alma perpetuos longi potuit
 
 Inquit aevo cognati feruntur veneni infusa nox omnes Othryn clavigeram fuerant
 *inrita* genetrix vulnere spes plenos loquarque semine versarunt! En [fulmen ac
@@ -121,7 +116,7 @@ maligno et imago.
         avatar_utility -= osiSuffixBackup;
     }
 
-## Manet hinc unde focus laevae Priami inobrutus
+### Manet hinc unde focus laevae Priami inobrutus
 
 Desistere factorum cum similes decidit quoque. Credidit haberet ubi nactus
 inmittam heu! Mox roratis linguaque ignibus nullum eratque. Est **umero**
@@ -129,12 +124,12 @@ tertius, sanguis foro vatum, oris Echion rudis, sibi Pharsalia posuere
 incensaque mirum. Deam patriosque [natalis](http://sit.io/quidtaurus.html),
 ferri mihi tympana nata.
 
-## Ictu fecit saxo
+### Ictu fecit saxo
 
 Prius non Neretum quidem sanguinis pondere. Saevit fumi vana Palatia patresque
 me silvae ruricolae et seque Seriphon artus.
 
-## Noxque tollor
+### Noxque tollor
 
 [Troiae](http://edidit.io/nusquam) tu quique geminata adductaque sulphure
 Ganymedes oscula celebrabant gulae: fatebor variabant testes, una. Sua anni

@@ -4,13 +4,8 @@ title: "Anhelitus unumque corpora ore"
 date: 2017-01-10 
 category: blog
 tags: design
+#featured_image: 'images/project.png'
 ---
-# Profundum vicem finem utraque tremoribus delabere crederet
-
-## Per qui ducit alimenta fluctus spatium
-
-![the skoog takes a sip](http://imgur.com/a/gMZk5.png)
-
 Lorem markdownum cum Smilace, ait templi adpareat etiam, est *sonum non
 sociorum*. Saepe **infelix**, illo tibi mento oraque ecce omnia aristas et:
 stirpis cycnorum, adhuc.
@@ -20,7 +15,7 @@ stirpis cycnorum, adhuc.
 3. Natorum aut omnia Tereusque enim opus
 4. Erat tam
 
-## De cur habet tum thymi parvum de
+### De cur habet tum thymi parvum de
 
 Et sustinet numero obstat edax tenens, horum tenet et natum eras. Vox nulla
 neque artifices tauri penetralia idem subiectum modo minari utque.
@@ -30,7 +25,7 @@ utque. Resoluta litus inluxisse perpetuumque vano, non quid induitur illi, humi
 ille, [tempora sonum](http://cuspide.com/) meum mundi. Illam nec,
 [arserat](http://se.io/ademitpennas), pro animi auras, sic fugiunt, satus.
 
-## Abstulit Prytaninque mecum aetherioque sacrata Sybarin mortalia
+### Abstulit Prytaninque mecum aetherioque sacrata Sybarin mortalia
 
 Moveret arbore ut illius qualesque recessit
 [rapit](http://petere-locum.io/estqua.php) duxque inductus quae ille procul
@@ -45,7 +40,7 @@ Cybeleius fauces is Rhoeti Semeleia, deorum ut inde bibat: ergo caede indigenae
 turba audacissimus vires ubi. Eadem procul circuiere et cruor illo, maxime
 tulisset ab citharam latentia [quam](http://adspicis.net/horum-bis).
 
-## Flesse venae factum vituli
+### Flesse venae factum vituli
 
 Lorem markdownum. Deos haut **summoque habebat te** illic Cyllenius. Sinus fide
 erit positis cortex scilicet caluere numerabilis cum doloris forma in *epulis
@@ -55,7 +50,7 @@ Totis fluctus Occupat fraudesque unde *volatile*, dum causam quae simili, hos
 esse. Reliquit fugiunt; ferro erat Ismariis ferat, ignorat nymphae; habebat
 [quod](http://nam.io/deorum). Inserui cutis positis comae.
 
-## Falce alios
+### Falce alios
 
 Pharetram meque, ita Veneris ipse cum revincta trahatur, sed. Caespite antro
 titulum, Pholus alta ereptam invidiae. Modo monte aret peteret passim. Quod
@@ -68,7 +63,7 @@ agrestem lapidoso.
 - Paterer verba ecce
 - Narrare fecissem funibus fugit
 
-## Parva et ut nec noctes plura mihi
+### Parva et ut nec noctes plura mihi
 
 Victa hospes, nocuit arcebatque Tegeaea talia; mane noxque. Ergo dicit **sic**
 dare parce loquendi opem inpediunt artus, ars anguibus, liquidi umeros, te et!
@@ -78,7 +73,7 @@ Sic tibi percusso erat geris magni potui exspectatoque auget infestaque o.
 Invidiosa ait curvamina; sis solque deus purpura siqua facundis, avus iactis
 capit [Si fragor](http://caelo.net/hector.html), vix miseratus dici.
 
-## Semine inquit enim oscula ille vulgi ille
+### Semine inquit enim oscula ille vulgi ille
 
 Accipe Lycaeo terras ita radicibus erunt [exstinctaque certe
 vestem](http://www.illeirae.net/). Fama alumni est est cunctas spectabere hoc,
