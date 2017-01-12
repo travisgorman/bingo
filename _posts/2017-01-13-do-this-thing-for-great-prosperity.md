@@ -3,6 +3,7 @@ layout: post
 title: "Sub pars nam ante animas"
 date: 2017-01-13
 category: blog
+tags: layout 
 ---
 # Rupe videns silet communis inrequieta sibi concretum
 ## Aer magni sub fuistis domos et vitamque

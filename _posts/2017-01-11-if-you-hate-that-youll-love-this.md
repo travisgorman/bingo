@@ -3,6 +3,7 @@ layout: post
 title: "Lorem ipsum dolor sit"
 date: 2017-01-11
 category: blog
+tags: code inspiration
 ---
 #This is an H1
 ## This is an H2

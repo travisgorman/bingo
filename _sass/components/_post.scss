@@ -14,9 +14,12 @@
 .post-tags {
 	min-height:50px;
 	text-align:center;
-
+	margin-left:0;
 	li {
 		display:inline;
+		img {
+			margin: 0 0.5rem;
+		}
 	}
 }
 

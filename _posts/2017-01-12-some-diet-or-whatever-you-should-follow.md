@@ -3,6 +3,8 @@ layout: post
 title: "Circo vosne vias et dura"
 date: 2017-01-12
 category: blog
+featured: true
+tags: code snippet
 ---
 # Oresitrophos Procne Othrys morte plus
 ## Omnes docuisse vestros validoque corpus intresque Semina
