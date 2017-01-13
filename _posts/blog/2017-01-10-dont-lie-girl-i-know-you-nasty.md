@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Facta Cerberus satelles colligit vitta"
-date: 2017-01-1010
+date: 2017-01-10
 category: blog
 tags: code
 #featured_image: 'images/project.png'
