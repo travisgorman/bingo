@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Project Number Two"
-date: 2017-01-14
+title: "Project Number Six"
+date: 2017-01-07
 category: project
 tags: code
 featured_image: '/images/project.png'

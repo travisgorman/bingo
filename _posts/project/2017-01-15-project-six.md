@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Project Number Three"
-date: 2017-01-10
+title: "Project Number One"
+date: 2017-01-12
 category: project
-tags: code inspiration
+tags: inspiration
 featured_image: '/images/project.png'
 ---
 Lorem markdownum membra virilem, [his flumina enim](http://data-ictus.org/haec),
