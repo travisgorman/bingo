@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "This is a new blog post!!"
-date: 2017-01-17
+date: 2017-01-12
 category: blog
 tags: layout
 #featured_image: 'images/project.png'

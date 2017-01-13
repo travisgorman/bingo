@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Here's A Brilliant Idea I Just Had"
-date: 2017-01-13
+date: 2017-01-10
 category: blog
 tags: snippet
 ---

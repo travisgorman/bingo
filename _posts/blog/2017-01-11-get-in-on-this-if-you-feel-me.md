@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Qui memor illis principio negant"
-date: 2017-01-15
+date: 2017-01-11
 category: blog
 tags: code inspiration
 #featured_image: 'images/project.png'

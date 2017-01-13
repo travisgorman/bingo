@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Anhelitus unumque corpora ore"
-date: 2017-01-10 
+date: 2017-01-07 
 category: blog
 tags: design
 #featured_image: 'images/project.png'

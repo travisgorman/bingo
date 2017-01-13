@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Circo vosne vias et dura"
-date: 2017-01-12
+date: 2017-01-09
 category: blog
 featured: true
 tags: code snippet

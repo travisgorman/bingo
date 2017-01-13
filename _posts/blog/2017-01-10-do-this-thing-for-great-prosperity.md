@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sub pars nam ante animas"
-date: 2017-01-13
+date: 2017-01-10
 category: blog
 tags: layout
 #featured_image: 'images/project.png'
